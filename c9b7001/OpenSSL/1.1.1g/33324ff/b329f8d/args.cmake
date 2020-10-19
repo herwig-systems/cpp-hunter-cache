@@ -1,0 +1,1 @@
+set("ASM_SUPPORT" "ON" CACHE INTERNAL "")
